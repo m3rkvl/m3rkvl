@@ -13,9 +13,7 @@
 
 💬 Ask me about **anything, I'll do my best to help**.
 
-📫 You can reach me at **half-hour@outlook.com**.
-
-<h3 align="left">You can also reach me here:</h3>
+<h3 align="left">You can reach me at:</h3>
 <p align="left">
 <a href="https://twitter.com/m3rkvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m3rkvl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murat-erkal-6270451b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat-erkal-6270451b6" height="30" width="40" /></a>
