@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/m3rkvl/m3rkvl/main/cover1.png" alt="m3rkvl cover image" width="1000" height="333,35" />
+
 <h1 align="center">Hi 👋, I'm Murat Erkal</h1>
 <h3 align="center">A front end developer who also loves designing and teaching.</h3>
 
@@ -5,11 +7,13 @@
 
 - 🌱 I’m currently learning **Next.js** -->
 
-- 👨‍💻 All of my projects are available at [https://merkal.tech](https://merkal.tech)
+🌍 Living in Antalya, Turkey.
 
-- 💬 Ask me about **anything, I'll do my best to help.**
+👨‍💻 All of my projects are available at [https://merkal.tech](https://merkal.tech).
 
-- 📫 You can reach me at **half-hour@outlook.com**
+💬 Ask me about **anything, I'll do my best to help**.
+
+📫 You can reach me at **half-hour@outlook.com**.
 
 <h3 align="left">You can also reach me here:</h3>
 <p align="left">
