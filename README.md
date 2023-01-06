@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/m3rkvl/m3rkvl/main/cover1.png" alt="m3rkvl cover image" />
+<img src="https://user-images.githubusercontent.com/111198925/211038375-f6fcace3-e5e2-4a1f-bfa9-1c0e09249d7a.png" />
 
 <h1 align="center">Hi 👋, I'm Murat Erkal</h1>
 <h3 align="center">A front end developer who also loves designing and teaching.</h3>
