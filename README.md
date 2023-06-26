@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js** -->
 
-🌍 Living in Antalya, Turkey.
+🌍 Living in İzmir, Turkey.
 
 👨‍💻 All of my projects are available at [https://merkal.tech](https://merkal.tech).
 
